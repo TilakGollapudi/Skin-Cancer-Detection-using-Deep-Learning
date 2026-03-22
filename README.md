@@ -45,7 +45,11 @@ The model is trained and validated to improve prediction accuracy and reliabilit
 - ✅ Improved accuracy with deep learning
 - 📊 Better generalization with large dataset
 - 🧪 Validated using test dataset
+# Training and Validation (Accuracy and Loss)
 <Figure size 2000x800 with 2 Axes><img width="1634" height="718" alt="image" src="https://github.com/user-attachments/assets/448cd598-25b0-4dba-b184-525d744d9af0" />
+#Confusion Matrix
+<Figure size 1000x1000 with 2 Axes><img width="967" height="978" alt="image" src="https://github.com/user-attachments/assets/b5bba69c-9b3a-4c5c-837a-2bf78d0c0600" />
+
 
 ## 👨‍💻 Authors
 
