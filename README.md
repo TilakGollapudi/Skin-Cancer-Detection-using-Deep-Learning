@@ -9,12 +9,43 @@ This project leverages Deep Learning, specifically Convolutional Neural Networks
 - 🚀 Features
 - 🧠 Model Architecture
 - 📊 Dataset
-- ⚙️ Installation
-- ▶️ Usage
 - 📈 Results
 - 👨‍💻 Authors
 - 🎓 Acknowledgment
-- 📜 License
+
+## 📖 Overview
+Traditional machine learning models often suffer from limited datasets, leading to lower accuracy. To overcome this, our project uses a dataset of 25,000+ skin images and applies CNN models with varying:
+
+- Convolution layers.
+- Epochs.
+- Hyperparameters.
+
+The model is trained and validated to improve prediction accuracy and reliability.
+
+## 🚀 Features
+- 🔍 Early detection of skin cancer.
+- 🧠 Deep learning-based classification (CNN).
+- 📊 Trained on large dataset (25K+ images).
+- ⚡ Improved accuracy over traditional ML models.
+- 🩺 Supports medical decision assistance.
+
+## Model Architecture
+- Convolutional Neural Network (CNN)
+- Multiple convolution + pooling layers
+- Activation: ReLU
+- Fully connected dense layers
+- Output layer for classification
+
+## 📊 Dataset
+- 📁 Total Images: ~25,000
+- 🏷️ Categories: Different types of skin conditions
+- 📌 Source: https://challenge.isic-archive.com/data/#2019
+
+## 📈 Results
+- ✅ Improved accuracy with deep learning
+- 📊 Better generalization with large dataset
+- 🧪 Validated using test dataset
+<Figure size 2000x800 with 2 Axes><img width="1634" height="718" alt="image" src="https://github.com/user-attachments/assets/448cd598-25b0-4dba-b184-525d744d9af0" />
 
 ## 👨‍💻 Authors
 
